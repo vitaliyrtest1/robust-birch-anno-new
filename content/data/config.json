@@ -23,14 +23,14 @@
             },
             {
                 "type": "Link",
-                "label": "Example!",
-                "url": "/example",
+                "label": "Home",
+                "url": "/",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Home",
-                "url": "/",
+                "label": "Example!",
+                "url": "/example",
                 "altText": ""
             }
         ],
